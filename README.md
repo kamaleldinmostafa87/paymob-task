@@ -1,8 +1,20 @@
-# React + Vite
+# Transaction History Table Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A React-based web application that displays a transaction history table with dynamic styling and status indicators.
 
-Currently, two official plugins are available:
+## Features
+- Responsive table layout
+- Custom column configurations
+- Payment status visualization
+- Tailwind CSS styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Prerequisites
+- Node.js (v14 or later)
+- npm or yarn
+
+## Setup Instructions
+1. Clone the repository
+2. Install dependencies:
+   ```bash
+   npm install
