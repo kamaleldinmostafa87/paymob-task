@@ -19,6 +19,7 @@ A React-based web application that displays a transaction history table with dyn
 2. Install dependencies:
    ```bash
    npm install
+   npm run dev
 
 # screen
 ![image](https://github.com/user-attachments/assets/fab22f92-d582-4255-af53-8554f59408ab)
